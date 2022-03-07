@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fenil8460
-- 👀 I’m interested in ...PHP
-- 🌱 I’m currently learning ...NodeJA and their framework
+- 👀 I’m interested in ...PHP Framework like larave and Javascript Framework like NodeJs, ReactJs, Angular etc.
+- 🌱 I’m currently doing job in ...Online Check Writer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
